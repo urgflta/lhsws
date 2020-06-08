@@ -1,7 +1,6 @@
-echo "# lhsws" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/urgflta/lhsws.git
-git push -u origin master
-                
+{
+		"myyue":123,
+		"daihuan":456,
+		"daishou":789,
+		"tel":13720263524
+}
